@@ -1,2 +1,2 @@
 # SQL-Nashvillehousing-Data-Manpulation-Cleaning
-SQL Nashvillehousing Data Manpulation &amp; Cleaning
+The GitHub repository encompasses SQL queries for comprehensive data cleaning in Nashville Housing records. The process involves standardizing date formats, populating and refining property address data, breaking down addresses into individual columns, handling null values, converting 'Y' and 'N' to 'Yes' and 'No' for SoldAsVacant, eliminating duplicates, and streamlining the dataset by deleting unused columns.
